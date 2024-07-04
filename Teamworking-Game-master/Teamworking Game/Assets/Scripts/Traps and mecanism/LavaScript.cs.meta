@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 790a1d0f242b98945a7bcef8116b5009
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - earthGirl: {instanceID: 0}
+  - losingScreenUI: {fileID: 6316519964030444526, guid: 2853d28ca86d0fb43b884894ab98d8e6, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
